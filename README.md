@@ -50,3 +50,4 @@ Please read **[Project_Guidelines.md](Project_Guidelines.md)** carefully before 
 Submit all files listed in the directory structure (including `app.py`, `data/train.csv`, `data/test.csv`, `video_link.txt`, `AI_declaration.png`, and `requirements.txt`) to **Gradescope** under **Project 3**.
 
 For complete requirements and the evaluation rubric, refer to [Project_Guidelines.md](Project_Guidelines.md).
+# cs411_project3
