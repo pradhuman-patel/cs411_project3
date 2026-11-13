@@ -4,30 +4,30 @@ Video Presentation Submission & Language Declaration
 ======================================================================
 
 Student Information:
-- Full Name: [Replace with your Full Name]
-- UIN: [Replace with your 9-digit UIN]
-- NetID: [Replace with your UIC NetID]
+- Full Name: Pradhuman Patel
+- UIN: 660584048
+- NetID: ppate575
 
-Data Source (if any): 
-- Source 1: [Replace with your data source (if any)]
-- Source 2: [Replace with your data source (if any)]
+Data Source (if any):
+- Source 1: None
+- Source 2: None
 
 Video Presentation Details:
-- Video URL: [Paste your accessible YouTube / Google Drive / Dropbox link here]
-- Video Duration: [e.g., 5 min 30 sec]
-- Video File Format: .mp4 (or standard streamable link)
+- Video URL: https://drive.google.com/file/d/15nFDaYBEdvsPMO-Q2WxC7361JiS_6vV4/view?usp=sharing
+- Video Duration: 8 min 25 sec
+- Video File Format: .mp4
 
 Language Declaration:
-- Language Used in Dataset & Classifier: [e.g., English / Spanish / Burmese / Hindi / Chinese / etc.]
-- Applying for +30% Non-English Language Bonus: [YES / NO]
+- Language Used in Dataset & Classifier: English
+- Applying for +30% Non-English Language Bonus: NO
   (Note: If YES, book your 5-question interview at: https://calendar.app.google/J5EejvwkKgtPE8oKA)
 
 Verification Checklist:
-[ ] My face is clearly visible on camera throughout the video presentation.
-[ ] The video sharing link is public / accessible to UIC instructors without permission requests.
-[ ] I showed my project directory and train/test dataset structure.
-[ ] I demonstrated tokenization, vocabulary counts, and class prior/word likelihood calculations.
-[ ] I showed step-by-step prediction on an input sentence with log probabilities.
-[ ] I demonstrated the live data mutation test (modifying training data and showing dynamic recalculation).
-[ ] I evaluated the test set and tested live on camera with multiple unseen sentences.
+[x] My face is clearly visible on camera throughout the video presentation.
+[x] The video sharing link is public / accessible to UIC instructors without permission requests.
+[x] I showed my project directory and train/test dataset structure.
+[x] I demonstrated tokenization, vocabulary counts, and class prior/word likelihood calculations.
+[x] I showed step-by-step prediction on an input sentence with log probabilities.
+[x] I demonstrated the live data mutation test (modifying training data and showing dynamic recalculation).
+[x] I evaluated the test set and tested live on camera with multiple unseen sentences.
 [ ] If claiming +30% bonus: My entire dataset and demonstration are in a language other than English.
