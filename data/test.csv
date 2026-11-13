@@ -1,41 +1,41 @@
-text,label
-"This phone is fast, reliable, and simple to use.",positive
-The store had limited choices and prices higher than advertised.,negative
-"The box was missing screws, and the instructions were confusing.",negative
-The service plan cost more but provided almost no useful coverage.,negative
-The store had a great selection at reasonable prices.,positive
-Customer support solved my issue on the first call.,positive
-The app crashes so often that I stopped relying on it.,negative
-The ending was disappointing and did not resolve the story.,negative
-I finished the novel in two days because I enjoyed it so much.,positive
-I would happily recommend this place to my friends.,positive
-Maintenance ignored my requests for weeks.,negative
-The film's soundtrack was distracting and much too loud.,negative
-The staff were friendly and made us feel welcome.,positive
-"The building is quiet, and maintenance responds quickly.",positive
-"The library is comfortable, quiet, and open late.",positive
-"The delivery was two days late, and the box was crushed.",negative
-The repair was completed sooner than promised.,positive
-The train staff helped us find our seats quickly.,positive
-The mechanic explained the work and charged a reasonable amount.,positive
-Customer support transferred me several times and never helped.,negative
-The company communicated clearly throughout the hiring process.,positive
-No one at the station could explain why the train was delayed.,negative
-The headphones sound tinny and hurt after a short time.,negative
-I would not recommend this place to anyone.,negative
-"The garden looked neglected, with weeds covering the paths.",negative
-My coworkers were unhelpful when I asked for basic guidance.,negative
-"The clinic staff were gentle, respectful, and efficient.",positive
-The presentation was hard to follow and ignored key questions.,negative
-The study group was distracting and did not help me learn.,negative
-The meeting ran long without reaching a decision.,negative
-I felt that the team handled my request carelessly.,negative
-I had a wonderful time at the concert last night.,positive
-The technician arrived on schedule and fixed everything.,positive
-"The laptop overheats, runs slowly, and disrupts my work.",negative
-The feedback was thoughtful and helped me improve.,positive
-The volunteer team was organized and made a real difference.,positive
-The museum visit was fascinating and worth the trip.,positive
-"The garden is lovely, with colorful flowers everywhere.",positive
-The replacement arrived quickly and worked perfectly.,positive
-Nothing about the visit met my expectations.,negative
+﻿text,label
+The coffee was bitter and barely warm.,negative
+"The delivery was late, and the package was damaged.",negative
+I found the experience brilliant.,positive
+The thoughtful service made the evening special.,positive
+"The room was clean, quiet, and comfortable.",positive
+I found the experience useless.,negative
+The delivery arrived early and in perfect condition.,positive
+I enjoyed every minute and would gladly come back.,positive
+The guide rushed us through the entire tour.,negative
+We left feeling that the experience was frustrating.,negative
+I would warn my friends because the experience was overpriced.,negative
+The lesson was clear and genuinely useful.,positive
+We left feeling that the experience was satisfying.,positive
+The overall experience felt horrific from beginning to end.,negative
+The book was repetitive and difficult to finish.,negative
+The book was moving and easy to recommend.,positive
+The app is dependable and simple to use.,positive
+The movie dragged on and had a confusing ending.,negative
+We left feeling that the experience was extremely rude.,negative
+I found the experience perfect.,positive
+The park was crowded and covered in litter.,negative
+We left feeling that the experience was excellent.,positive
+I would gladly recommend it because the experience was helpful.,positive
+We left feeling that the experience was amazing.,positive
+I would warn my friends because the experience was dreadful.,negative
+"The repair was quick, and the price was fair.",positive
+We left feeling that the experience was friendly.,positive
+We left feeling that the experience was horrible.,negative
+The overall experience felt dreadful from beginning to end.,negative
+The instructions were confusing and incomplete.,negative
+"The room was dirty, noisy, and uncomfortable.",negative
+The concert started late and the sound was harsh.,negative
+The concert had great sound and an energetic crowd.,positive
+The guide was patient and explained everything clearly.,positive
+The staff ignored us and got our order wrong.,negative
+The repair took too long and did not solve the problem.,negative
+I loved the warm welcome and the delicious food.,positive
+"The staff were welcoming, and the whole visit was lovely.",positive
+The app crashes often and loads very slowly.,negative
+"The show was entertaining, polished, and fun.",positive
